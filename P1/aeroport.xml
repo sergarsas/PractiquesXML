@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aeroport SYSTEM "P1/aeroport.dtd">
+
+<aeroport>
+    <nom>JFK</nom>
+    <vol codi="V22" estat="R">
+        <diari>SI</diari>
+        <origen>New York</origen>
+        <desti>Chicago</desti>
+        <hora_eixida>9:30</hora_eixida>
+        <hora_arribada>11:30</hora_arribada>
+    </vol>
+    <vol codi="V23" estat="C">
+        <diari></diari>
+        <origen>New York</origen>
+        <desti>Miami</desti>
+        <hora_eixida>10:15</hora_eixida>
+        <hora_arribada>11:15</hora_arribada>
+    </vol>
+    <data>20/12/2025</data>
+</aeroport>
